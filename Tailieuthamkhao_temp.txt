@@ -1,0 +1,24 @@
+TÀI LIỆU THAM KHẢO
+Mehdi Chouiten, Peter Schaeffer (2014) “Vision based mobile Gas-Meter Reading”
+Angelo Nodari, Ignazio Gallo (2011) “A Multi-Neural Network Approach to Image Detection and Segmentation of Gas Meter Counter”
+Jaco Marais, Reza Malekian, Ning Ye, and Ruchuan Wang (2016) “A Review of the Topologies Used in Smart Water Meter Networks: A Wireless Sensor Network Application”
+Rayson Laroca, Evair Severo, Luiz A. Zanlorensi, Luiz S. Oliveira, Gabriel Resende Goncalves, William Robson Schwartz and David Menotti “A Robust Real-time Automatic License Plate Recognition Based on the YOLO Detector”
+5. Claudio Guida, Dario Comanducci, Carlo Colombo “Automatic bus line number localization and recognition on mobile phones: A computer vision aid for the visually impaired”
+6. Kaicheng Xie (2007) “Automatic utility meter reading”
+7. Lamiaa A.Elrefaei, Asrar Bajaber, Summayyah Natheir, Nada AbuSanab, Marwa Bazi (2015) “Automatic Electricity Meter Reading Based on Image Processing”
+8. Rayson Laroca, Victor Barroso,  Matheus A.Diniz, Gabriel R.Goncalves, William Robson Schwartz, David Menotti (2019) “Convolutional Neural Networks for Automatic Meter Reading”
+9. Phạm Hồng Ngự (2009) “Nhận dạng đối tượng sử dụng thuật toán Adaboost”	
+10. Ricardo Ocampo-Vega and Gildardo Sanchez-Ante (2014) “Automatic Reading of Electro-mechanical Utility Meters”
+11. N Jawas and Indrianto (2017) “Image based automatic water meter reader”
+12. Chunshan Li, Yukun Su, Rui Yuan, Dianhui Chu and Jinhui Zhu (2017) “Light-weight Spliced Convolution Network based Automatic Water Meter Reading in Smart City”
+13. Shinu Nelson and K. Vetrivelselvi (2014) “Modelling and Analysis of Hybird Water Meter using Arrow Pointer Sensor”
+14. Pascal Ouma Nyapoto (2013) “A text recognition system for reading meters”
+15. Gabriel R.Goncalves, Matheus A. Diniz, Rayson Laroca, David Menotti, William Robson Schwartz “Real-time Automatic License Plate Recognition Through Deep Multi-Task Networks”
+16. Yunze Gao, Chaoyang Zhao, Jinqiao Wang and Hanqing Lu “Automatic Watermeter Digit Recognition on Mobile Devices”
+17. Anyline “https://anyline.com/”
+18. Opencv “https://opencv.org/”
+19. Tesseract “https://github.com/tesseract-ocr/tesseract”
+20. GOCR “http://jocr.sourceforge.net/”
+21. Gidi Shperber “A gentle introduction to OCR - https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa”
+22. Adrian Rosebrock “Credit card OCR with OpenCV and Python - https://www.pyimagesearch.com/2017/07/17/credit-card-ocr-with-opencv-and-python/”
+23. Adrian Rosebrock “Bank check OCR with OpenCV and Python (Part I) - https://www.pyimagesearch.com/2017/07/24/bank-check-ocr-with-opencv-and-python-part-i/”
